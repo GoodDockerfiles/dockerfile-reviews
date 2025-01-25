@@ -4,7 +4,7 @@ If you have a Dockerfile you'd like to improve or if you'd like to share a good 
 
 ## Ivan and Kyle Are reviewing a Golang app Dockerfile for "gofile" with Felipe Cruz
 
-[![Ivan and Kyle Are reviewing a Golang app Dockerfile for "gofile" with Felipe Cruz](images/gofile_golang_app_dockerfile_review.png)](https://www.youtube.com/watch?v=v5E-enT_pyo)
+[![Ivan and Kyle Are reviewing a Golang app Dockerfile for "gofile" with Felipe Cruz](/images/gofile_golang_app_dockerfile_review.png)](https://www.youtube.com/watch?v=v5E-enT_pyo)
 
 YouTube Stream: https://www.youtube.com/watch?v=v5E-enT_pyo
 
