@@ -37,3 +37,5 @@ If you want to containerize a Golang app without using Dockerfiles you have a nu
 * [Distroless-based Dockerfile](./Dockerfile.distroless)
 * [Distroless-based Dockerfile with a Shell](Dockerfile.distroless.shell)
 * [Original Dockerfile](./Dockerfile.original)
+
+[![Distroless-based Dockerfile with a Shell](/images/gofile_golang_app_dockerfile_distroless.png)](Dockerfile.distroless.shell)
